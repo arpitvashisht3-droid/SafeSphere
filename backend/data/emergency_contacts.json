@@ -1,0 +1,27 @@
+[
+  {
+    "name": "National Emergency Number",
+    "number": "112",
+    "description": "All-in-one emergency helpline for Police, Fire, and Medical assistance across India."
+  },
+  {
+    "name": "Police",
+    "number": "112",
+    "description": "Direct emergency police assistance for law enforcement and urgent safety intervention."
+  },
+  {
+    "name": "Women Helpline",
+    "number": "181",
+    "description": "24/7 dedicated helpline for women facing distress, harassment, or domestic violence."
+  },
+  {
+    "name": "Cyber Crime Helpline",
+    "number": "1930",
+    "description": "National helpline to report cyber financial frauds, online harassment, and digital safety issues."
+  },
+  {
+    "name": "National Commission for Women (NCW) Helpline",
+    "number": "7827170170",
+    "description": "24/7 helpline to report violence, abuse, or grievances against women."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "complaint_id": "SS-8DB86A7A",
+    "category": "string",
+    "description": "string",
+    "incident_date": "string",
+    "organization": "string"
+  },
+  {
+    "complaint_id": "SS-F75DB4C6",
+    "category": "string",
+    "description": "string",
+    "incident_date": "string",
+    "organization": "string"
+  }
+]
