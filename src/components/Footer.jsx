@@ -14,10 +14,13 @@ export default function Footer({
   contactEmail = "contact@safesphere.org",
   quickLinks = [
     { label: 'Home', path: '/' },
+    { label: 'Support Resources', path: '/resources' },
+    { label: 'Legal Rights', path: '/legal-rights' },
+    { label: 'Emergency Contacts', path: '/emergency-contacts' },
+    { label: 'Safety Tips', path: '/safety-tips' },
+    { label: 'Anonymous Complaints', path: '/complaints' },
     { label: 'About', path: '/about' },
-    { label: 'Contact', path: '/contact' },
-    { label: 'Explore Places', path: '/search' },
-    { label: 'Submit Report', path: '/add-review' }
+    { label: 'Contact', path: '/contact' }
   ],
   socialLinks = [
     { name: 'Github', href: 'https://github.com', icon: FiGithub },
@@ -46,7 +49,7 @@ export default function Footer({
             </Link>
             
             <p className="text-sm text-slate-400 max-w-sm leading-relaxed">
-              Empowering urban commuters and travelers with real-time, crowdsourced safety scores, night lighting data, and community reports.
+              Empowering urban commuters and travelers with real-time, crowdsourced safety scores, night lighting data, legal rights guidance, emergency hotlines, and anonymous complaint reporting.
             </p>
 
             {/* Social Icons */}
@@ -74,7 +77,7 @@ export default function Footer({
             <h4 className="text-xs font-bold uppercase tracking-wider text-slate-200">
               Quick Links
             </h4>
-            <ul className="space-y-2.5 text-sm text-slate-400">
+            <ul className="space-y-2 text-xs text-slate-400">
               {quickLinks.map((link) => (
                 <li key={link.path}>
                   <Link 
@@ -91,9 +94,9 @@ export default function Footer({
           {/* Column 3: Contact Info */}
           <div className="space-y-3">
             <h4 className="text-xs font-bold uppercase tracking-wider text-slate-200">
-              Contact
+              Contact & Emergency
             </h4>
-            <div className="space-y-3 text-sm text-slate-400">
+            <div className="space-y-3 text-xs text-slate-400">
               <a
                 href={`mailto:${contactEmail}`}
                 className="inline-flex items-center gap-2 text-slate-300 hover:text-violet-400 hover:scale-105 transition-all duration-200 font-medium"
@@ -102,7 +105,7 @@ export default function Footer({
                 <span>{contactEmail}</span>
               </a>
               <p className="text-xs text-slate-400 leading-relaxed">
-                24/7 Community Monitoring & Safety Data Verification.
+                24/7 National Emergency Hotline: <strong className="text-white">112</strong> / Women Helpline: <strong className="text-white">181</strong>
               </p>
             </div>
           </div>

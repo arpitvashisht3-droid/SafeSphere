@@ -1,0 +1,23 @@
+[
+  {
+    "complaint_id": "SS-A0B44FAC",
+    "category": "Workplace Harassment",
+    "description": "Test complaint description",
+    "incident_date": null,
+    "organization": "SafeSphere Corp"
+  },
+  {
+    "complaint_id": "SS-236C1B4E",
+    "category": "Public Transport Safety",
+    "description": "xyzxyxz",
+    "incident_date": null,
+    "organization": null
+  },
+  {
+    "complaint_id": "SS-09FE2AD4",
+    "category": "Public Transport Safety",
+    "description": "fxfjh vjv",
+    "incident_date": null,
+    "organization": null
+  }
+]

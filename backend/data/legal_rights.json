@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Protection Against Sexual Harassment (POSH)",
+    "category": "Workplace",
+    "description": "Employers are legally required to maintain a safe work environment and establish internal complaint mechanisms to address harassment claims."
+  },
+  {
+    "title": "Right to Equal Remuneration",
+    "category": "Workplace",
+    "description": "Women are entitled to equal pay for equal work under employment laws, prohibiting wage discrimination based on gender."
+  },
+  {
+    "title": "Right to Protection from Domestic Violence",
+    "category": "Domestic Violence",
+    "description": "Individuals experiencing domestic abuse have the right to seek protection orders, residence rights, and emergency legal remedies."
+  },
+  {
+    "title": "Right to Free Legal Aid",
+    "category": "General Safety",
+    "description": "Women facing legal proceedings or seeking justice are entitled to access free legal representation through public legal service authorities."
+  },
+  {
+    "title": "Right to Zero FIR & Safe Reporting",
+    "category": "General Safety",
+    "description": "A Zero FIR can be filed at any police station regardless of territorial jurisdiction where the offense occurred."
+  }
+]

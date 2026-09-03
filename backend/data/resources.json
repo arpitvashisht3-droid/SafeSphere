@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Emergency Services",
+    "type": "Emergency",
+    "description": "For immediate emergency assistance and first responders.",
+    "contact": "DEMO-112",
+    "availability": "24/7"
+  },
+  {
+    "name": "Mental Health & Crisis Helpline",
+    "type": "Mental Health",
+    "description": "Confidential support for individuals experiencing emotional distress.",
+    "contact": "DEMO-988",
+    "availability": "24/7"
+  },
+  {
+    "name": "Women's Safety Helpline",
+    "type": "Support",
+    "description": "Dedicated emergency support and guidance for women's safety.",
+    "contact": "DEMO-1091",
+    "availability": "24/7"
+  },
+  {
+    "name": "Campus & Workplace Safety Desk",
+    "type": "Local Support",
+    "description": "On-site security dispatch and incident reporting desk.",
+    "contact": "DEMO-555-0199",
+    "availability": "Mon-Fri 8am-8pm"
+  }
+]

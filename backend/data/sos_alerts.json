@@ -1,0 +1,42 @@
+[
+  {
+    "alert_id": "SOS-8327C0E1",
+    "timestamp": "2026-09-03T18:39:36.429627+00:00",
+    "message": "Emergency test SOS",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "status": "active"
+  },
+  {
+    "alert_id": "SOS-DC14EB2A",
+    "timestamp": "2026-09-03T18:40:37.037102+00:00",
+    "message": "Emergency SOS alert triggered from SafeSphere web client!",
+    "latitude": null,
+    "longitude": null,
+    "status": "active"
+  },
+  {
+    "alert_id": "SOS-C33DDED7",
+    "timestamp": "2026-09-03T18:40:44.152520+00:00",
+    "message": "Emergency SOS alert triggered from SafeSphere web client!",
+    "latitude": null,
+    "longitude": null,
+    "status": "active"
+  },
+  {
+    "alert_id": "SOS-012DF610",
+    "timestamp": "2026-09-03T18:47:57.318194+00:00",
+    "message": "Emergency SOS alert triggered from SafeSphere web client!",
+    "latitude": null,
+    "longitude": null,
+    "status": "active"
+  },
+  {
+    "alert_id": "SOS-ACF273A5",
+    "timestamp": "2026-09-03T18:47:59.718061+00:00",
+    "message": "Emergency SOS alert triggered from SafeSphere web client!",
+    "latitude": null,
+    "longitude": null,
+    "status": "active"
+  }
+]

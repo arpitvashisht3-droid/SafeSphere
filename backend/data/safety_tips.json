@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Share Live Location During Rides",
+    "description": "Always share your trip status and live location with trusted family members or friends when using cabs or public transport.",
+    "category": "Travel Safety"
+  },
+  {
+    "title": "Verify Vehicle and Driver Details",
+    "description": "Check that the car model, license plate number, and driver match the details displayed in your ride-hailing app before getting in.",
+    "category": "Travel Safety"
+  },
+  {
+    "title": "Enable Two-Factor Authentication (2FA)",
+    "description": "Secure all your social media, email, and banking accounts with two-factor authentication to protect against unauthorized access.",
+    "category": "Online Safety"
+  },
+  {
+    "title": "Be Cautious with Personal Information Online",
+    "description": "Avoid sharing real-time locations, home address, or travel itineraries on public social media channels.",
+    "category": "Online Safety"
+  },
+  {
+    "title": "Set Up Emergency Speed Dial & SOS Shortcuts",
+    "description": "Configure emergency contacts and hardware SOS triggers (e.g., pressing power button multiple times) on your smartphone.",
+    "category": "Emergency Safety"
+  },
+  {
+    "title": "Keep Emergency Helplines Accessible",
+    "description": "Save national emergency helplines such as 112 (Emergency) and 181 (Women Helpline) in your contacts list.",
+    "category": "Emergency Safety"
+  },
+  {
+    "title": "Stay Aware of Surroundings in Public",
+    "description": "Avoid using high-volume headphones or becoming distracted by screens while walking in poorly lit or unfamiliar areas.",
+    "category": "Public Places"
+  },
+  {
+    "title": "Trust Your Instincts and Seek Safe Spaces",
+    "description": "If you feel uncomfortable or followed, enter a well-lit shop, restaurant, or public building immediately and seek assistance.",
+    "category": "Public Places"
+  },
+  {
+    "title": "Carry Basic Personal Safety Tools",
+    "description": "Keep a loud safety whistle, personal safety alarm, or pepper spray easily accessible in your bag or pocket when out.",
+    "category": "Personal Safety"
+  }
+]
